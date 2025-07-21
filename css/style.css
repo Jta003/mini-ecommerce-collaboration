@@ -64,7 +64,7 @@ main {
 .product-card:hover {
     transform: scale(1.05);
     cursor: pointer; /* เปลี่ยน cursor ให้ดูเหมือนคลิกได้ */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* เงาชัดขึ้น */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 1); /* เงาชัดขึ้น */
 }
 
 #product-list {
